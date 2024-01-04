@@ -1,5 +1,7 @@
 ## The impact of socio-economic factors on gambling behaviour in England
 
+### MSc Data Science Group Project
+
 Aim: To predict gambling activity (whether someone is likely to pursue or participate in gambling activities or not) based on socio-economic factors to help provide support to at-risk groups. Socio-economic factors include: gender, ethnicity, income group, educational level, region, alcohol consumption, mental health and smoking status.
 
 Dataset: Originally found data that showed % of weekly spending on gambling based on region, gender, age, however this was insufficient for machine learning (as this data was aggregated, not enough individual training samples). Hence we submitted a request to the NHS to access Health Survey for England 2018 (individual, anonymous census data from households with all the socio economic factors and gambling)
